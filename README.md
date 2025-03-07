@@ -105,9 +105,9 @@ netlify deploy --prod
 
 ## 📸 Screenshots
 ### 🌟 **Login Page**
-![Login Page](https://your-image-url.com/login.png)
+![Login Page](https://github.com/i-am-bharathkumar/Todo-app/blob/main/images/Screenshot%2025-03-07%194813.png)
 ### ✅ **Todo List Page**
-![Todo List](https://your-image-url.com/todo.png)
+![Todo List](https://github.com/i-am-bharathkumar/Todo-app/blob/main/images/Screenshot%202025-03-07%20183818.png)
 
 ---
 
