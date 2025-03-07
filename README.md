@@ -100,12 +100,11 @@ If you want to deploy it on **Netlify**, run:
 ```sh
 netlify deploy --prod
 ```
-
 ---
 
 ## 📸 Screenshots
 ### 🌟 **Login Page**
-![Login Page](https://github.com/i-am-bharathkumar/Todo-app/blob/main/images/Screenshot%2025-03-07%194813.png)
+![Login Page](https://github.com/i-am-bharathkumar/Todo-app/blob/main/images/Screenshot%202025-03-07%20194813.png)
 ### ✅ **Todo List Page**
 ![Todo List](https://github.com/i-am-bharathkumar/Todo-app/blob/main/images/Screenshot%202025-03-07%20183818.png)
 
