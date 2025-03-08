@@ -118,5 +118,4 @@ This project is **open-source** under the MIT License.
 ## 📧 Contact
 For any queries or feedback, feel free to reach out:
 📩 Email: myself.bharathkumar@gmail.com
-📌 GitHub: [Your GitHub Profile](https://github.com/i-am-bharathkumar)
 
